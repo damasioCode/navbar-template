@@ -8,4 +8,4 @@
 
 <img src="exemplo.JPG" alt="exemplo imagem">
 
->Template de menu hamburger para tratar os items de navegação de forma acessível e organizada.
+>Template de menu hamburger para tratar os items de navegação de forma acessível e organizada para versão mobile.
